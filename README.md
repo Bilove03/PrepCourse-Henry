@@ -1,2 +1,3 @@
-# super-octo-couscous
-Este es un repositorio de prueba del modulo 2 de Henry
+Blanca Ortiz
+
+Este es un proyecto de prueba de como crear un repositorio en GitHub y clonarlo a mi escritorio
